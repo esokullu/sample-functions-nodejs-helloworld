@@ -5,7 +5,7 @@ functions:
 - github:
     branch: master
     deploy_on_push: true
-    repo: digitalocean/sample-functions-nodejs-helloworld
+    repo: esokullu/sample-functions-nodejs-helloworld
   name: nodejs-api
   routes:
   - path: /
